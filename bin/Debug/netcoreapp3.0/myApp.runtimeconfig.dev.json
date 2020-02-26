@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/semonaigama/.dotnet/store/|arch|/|tfm|",
+      "/Users/semonaigama/.nuget/packages"
+    ]
+  }
+}

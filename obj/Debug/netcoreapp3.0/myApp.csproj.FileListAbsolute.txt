@@ -1,0 +1,10 @@
+/Users/semonaigama/myApp/bin/Debug/netcoreapp3.0/myApp.deps.json
+/Users/semonaigama/myApp/bin/Debug/netcoreapp3.0/myApp.runtimeconfig.json
+/Users/semonaigama/myApp/bin/Debug/netcoreapp3.0/myApp.runtimeconfig.dev.json
+/Users/semonaigama/myApp/bin/Debug/netcoreapp3.0/myApp.dll
+/Users/semonaigama/myApp/bin/Debug/netcoreapp3.0/myApp.pdb
+/Users/semonaigama/myApp/obj/Debug/netcoreapp3.0/myApp.csprojAssemblyReference.cache
+/Users/semonaigama/myApp/obj/Debug/netcoreapp3.0/myApp.AssemblyInfoInputs.cache
+/Users/semonaigama/myApp/obj/Debug/netcoreapp3.0/myApp.AssemblyInfo.cs
+/Users/semonaigama/myApp/obj/Debug/netcoreapp3.0/myApp.dll
+/Users/semonaigama/myApp/obj/Debug/netcoreapp3.0/myApp.pdb
